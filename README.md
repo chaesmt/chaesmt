@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Chae, a developer based in United States. ✨
+
 <!--
 **owieuin/owieuin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
