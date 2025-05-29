@@ -2,8 +2,6 @@
 
 **`Developer`**
 
-I am Chae, a developer based in United States. ✨
-
 ### 🛠 Projects & Contributions
 - **[Repos](https://github.com/owieuin?tab=repositories)**
 
