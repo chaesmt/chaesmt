@@ -2,13 +2,20 @@
 
 **`Developer`**
 
+I am Chae, a developer based in the United States.
+
+#
+
 ### 🛠 Projects & Contributions
 - **[Repos](https://github.com/owieuin?tab=repositories)**
+
+#
 
 ### 📫 Contacts & Info
 - **[GitHub](https://github.com/owieuin)** - @owieuiun
 - **[Discord](https://discord.com/)** - @owieuin
 
+#
 <!--
 **owieuin/owieuin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
