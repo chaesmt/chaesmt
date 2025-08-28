@@ -13,8 +13,8 @@
 
 
 ### 📫 Contacts & Info
-- **[GitHub](https://github.com/owieuin)** - @owieuiun
-- **[Discord](https://discord.com/)** - @owieuin
+- **[GitHub](https://github.com/owieuin)** - @chaesmt
+- **[Discord](https://discord.com/)** - @chaesmt
 
 <!--
 **owieuin/owieuin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
